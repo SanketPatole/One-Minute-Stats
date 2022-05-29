@@ -1,0 +1,288 @@
+﻿Country,Flags
+US,us.png
+Spain,es.png
+Italy,it.png
+France,fr.png
+United Kingdom,gb.png
+Germany,de.png
+Turkey,tr.png
+Russia,ru.png
+Iran,ir.png
+China,cn.png
+Brazil,br.png
+Canada,ca.png
+Belgium,be.png
+Netherlands,nl.png
+Peru,pe.png
+India,in.png
+Switzerland,ch.png
+Ecuador,ec.png
+Portugal,pt.png
+Saudi Arabia,sa.png
+Sweden,se.png
+Ireland,ie.png
+Mexico,mx.png
+Israel,il.png
+Singapore,sg.png
+Pakistan,pk.png
+Austria,at.png
+Chile,cl.png
+Japan,jp.png
+Belarus,by.png
+Poland,pl.png
+Qatar,qa.png
+Romania,ro.png
+United Arab Emirates,ae.png
+"Korea, South",kr.png
+Ukraine,ua.png
+Indonesia,id.png
+Denmark,dk.png
+Philippines,ph.png
+Norway,no.png
+Czechia,cz.png
+Bangladesh,bd.png
+Australia,au.png
+Dominican Republic,do.png
+Serbia,rs.png
+Panama,pa.png
+Colombia,co.png
+Malaysia,my.png
+South Africa,za.png
+Egypt,eg.png
+Finland,fi.png
+Morocco,ma.png
+Argentina,ar.png
+Algeria,dz.png
+Moldova,md.png
+Luxembourg,lu.png
+Kuwait,kw.png
+Kazakhstan,kz.png
+Thailand,th.png
+Bahrain,bh.png
+Hungary,hu.png
+Greece,gr.png
+Oman,om.png
+Croatia,hr.png
+Iraq,iq.png
+Uzbekistan,uz.png
+Afghanistan,af.png
+Armenia,am.png
+Cameroon,cm.png
+Iceland,is.png
+Azerbaijan,az.png
+Nigeria,ng.png
+Bosnia and Herzegovina,ba.png
+Ghana,gh.png
+Estonia,ee.png
+New Zealand,nz.png
+Cuba,cu.png
+Bulgaria,bg.png
+North Macedonia,mk.png
+Slovenia,si.png
+Lithuania,lt.png
+Guinea,gn.png
+Cote d'Ivoire,ci.png
+Bolivia,bo.png
+Djibouti,dj.png
+Tunisia,tn.png
+Senegal,sn.png
+Latvia,lv.png
+Cyprus,cy.png
+Albania,al.png
+Andorra,ad.png
+Honduras,hn.png
+Lebanon,lb.png
+Costa Rica,cr.png
+Niger,ne.png
+Sri Lanka,lk.png
+Burkina Faso,bf.png
+Uruguay,uy.png
+Somalia,so.png
+San Marino,sm.png
+Guatemala,gt.png
+Georgia,ge.png
+Mali,ml.png
+Tanzania,tz.png
+Malta,mt.png
+Jordan,jo.png
+Taiwan*,tw.png
+Jamaica,jm.png
+Kenya,ke.png
+El Salvador,sv.png
+Sudan,sd.png
+West Bank and Gaza,ps.png
+Mauritius,mu.png
+Montenegro,me.png
+Maldives,mv.png
+Gabon,ga.png
+Vietnam,vn.png
+Paraguay,py.png
+Rwanda,rw.png
+Guinea-Bissau,gw.png
+Liberia,lr.png
+Ethiopia,et.png
+Madagascar,mg.png
+Cambodia,kh.png
+Trinidad and Tobago,tt.png
+Cabo Verde,cv.png
+Togo,tg.png
+Zambia,zm.png
+Monaco,mc.png
+Eswatini,sz.png
+Liechtenstein,li.png
+Uganda,ug.png
+Barbados,bb.png
+Guyana,gy.png
+Haiti,ht.png
+Mozambique,mz.png
+Benin,bj.png
+Libya,ly.png
+Nepal,np.png
+Chad,td.png
+Central African Republic,cf.png
+Eritrea,er.png
+Mongolia,mn.png
+Zimbabwe,zw.png
+Angola,ao.png
+Antigua and Barbuda,ag.png
+Timor-Leste,tl.png
+Grenada,gd.png
+Belize,bz.png
+Fiji,fj.png
+Dominica,dm.png
+Namibia,na.png
+Nicaragua,ni.png
+Seychelles,sc.png
+Suriname,sr.png
+Mauritania,mr.png
+Papua New Guinea,pg.png
+Bhutan,bt.png
+Bolivia (Plurinational State of),bo.png
+Botswana,bw.png
+Burundi,bi.png
+"China, Hong Kong SAR",hk.png
+Comoros,km.png
+Congo,cg.png
+Côte d'Ivoire,ci.png
+Czech Republic,cz.png
+Czechoslovakia,thumbs.png
+D.P.R. of Korea,kp.png
+D.R. of the Congo,cd.png
+Equatorial Guinea,gq.png
+Former USSR,wikipedia
+Former Yugoslavia,wikipedia
+Gambia,gm.png
+Iran (Islamic Republic of),ir.png
+Kyrgyzstan,kg.png
+Lao People's DR,la.png
+Lesotho,ls.png
+Malawi,mw.png
+Myanmar,mm.png
+Puerto Rico,pr.png
+Republic of Korea,kr.png
+Republic of Moldova,md.png
+Russian Federation,ru.png
+Saint Lucia,md.png
+Sao Tome and Principe,st.png
+Sierra Leone,sl.png
+Slovakia,sk.png
+State of Palestine,ps.png
+Sudan (Former),sd.png
+Swaziland,sz.png
+Syrian Arab Republic,sy.png
+"Taiwan, Province of China",tw.png
+Tajikistan,tj.png
+TFYR of Macedonia,mk.png
+Turkmenistan,tm.png
+U.R. of Tanzania: Mainland,tz.png
+United States,us.png
+Venezuela (Bolivarian Republic of),ve.png
+Viet Nam,vn.png
+Yemen,ye.png
+Alabama,alb.png
+Alaska,als.png
+American Samoa,amr.png
+Arizona,arz.png
+Arkansas,aks.png
+California,clf.png
+Colorado,clr.png
+Connecticut,cnt.png
+Delaware,dlw.png
+District of Columbia,dto.png
+Florida,frd.png
+Georgia State,gga.png
+Guam,gam.png
+Hawaii,hwi.png
+Idaho,idh.png
+Illinois,iln.png
+Indiana,ida.png
+Iowa,iow.png
+Kansas,kss.png
+Kentucky,ktc.png
+Louisiana,lsa.png
+Maine,mne.png
+Maryland,mrl.png
+Massachusetts,msc.png
+Michigan,mcg.png
+Minnesota,mns.png
+Mississippi,mss.png
+Missouri,msr.png
+Montana,mtn.png
+Nebraska,nrk.png
+Nevada,nvd.png
+New Hampshire,nhs.png
+New Jersey,njs.png
+New Mexico,nmx.png
+New York,nyk.png
+North Carolina,ncr.png
+North Dakota,ndk.png
+Northern Mariana Islands,ntm.png
+Ohio,oho.png
+Oklahoma,okh.png
+Oregon,org.png
+Pennsylvania,psv.png
+Rhode Island,ril.png
+South Carolina,scr.png
+South Dakota,sdk.png
+Tennessee,tns.png
+Texas,txs.png
+Utah,uth.png
+Vermont,vmt.png
+Virgin Islands,vgi.png
+Virginia,vgn.png
+Washington,wst.png
+West Virginia,wvg.png
+Wisconsin,wcs.png
+Wyoming,wmg.png
+Georgia,gga.png
+Puerto Rico,prc.png
+Aruba,aru.jpg
+The Bahamas,bah.jpg
+Brunei Darussalam,bru.png
+Democratic Republic of the Congo,cd.png
+Republic of Congo,cg.png
+The Gambia,gm.png
+Guinea/Bissau,gw.png
+Hong Kong SAR,hk.png
+Islamic Republic of Iran,ir.png
+Kiribati,kir.png
+Korea,kr.png
+Kosovo,kos.png
+Lao P.D.R.,la.png
+Macao SAR,mac.jpg
+Marshall Islands,mar.png
+Micronesia,mic.png
+Nauru,nau.png
+Palau,pal.png
+Samoa,amr.png
+São Tomé and Príncipe,ao.png
+Slovak Republic,sk.png
+Solomon Islands,sol.png
+South Sudan,sou.png
+St. Lucia,md.png
+Syria,sy.png
+Taiwan Province of China,tw.png
+Timor/Leste,tl.png
+Tuvalu,tuv.png
+Vanuatu,van.jpg
+Venezuela,ve.png
