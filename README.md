@@ -54,8 +54,8 @@ Once the raw data is processed, two new files will be generated, values.csv and 
 
 * Now open Processing IDE, go inside the sketch folder and open the file with .pde extension. For example: "./Covid_Cases_Ranking/Covid_Cases_Ranking.pde". Note that sketch folder name and pde file name should be exactly same.
 
-* Run the sketch by clicking play button in toolbar at top. A window will pop up displaying live status of the execution. Once the execution gets completed, it creates multiple video frmes in "movie" folder.
+* Run the sketch by clicking play button in toolbar at top. A window will pop up displaying live status of the execution. Once the execution gets completed, it will create multiple video frames in "movie" folder.
 
-* Now open Processing.js IDE, click on Tools and select movie Maker. A window will open.
+* Now open Processing.js IDE, click on Tools and select Movie Maker option. A new window will open.
 
 * Browse and select the "movie" folder and click on "Create Movie" button to generate the video from video frames.
