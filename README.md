@@ -59,3 +59,11 @@ Once the raw data is processed, two new files will be generated, values.csv and 
 * Now open Processing.js IDE, click on Tools and select Movie Maker option. A new window will open.
 
 * Browse and select the "movie" folder and click on "Create Movie" button to generate the video from video frames.
+
+
+## License Information
+
+Please refer "LICENSE" file to know the license details.
+Before reusing this code, you will need to take a written permission from me.
+You can contact me at sanketpatole1994@outlook.com
+
