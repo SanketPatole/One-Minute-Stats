@@ -45,7 +45,7 @@ git clone https://github.com/SanketPatole/One-Minute-Stats.git
 cd "1. Covid Cases"
 ```
 
-* The datafile.csv file contains the raw data to be processed. Run following to execute Python script for data processing.
+* The datafile.csv file contains the raw data to be processed. Run following command to execute Python script for data processing.
 ```sh
 python "Parse_Input.py"
 ```
