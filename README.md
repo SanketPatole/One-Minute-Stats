@@ -50,7 +50,7 @@ cd "1. Covid Cases"
 python "Parse_Input.py"
 ```
 
-Once the raw data is processed, two new files get generated, values.csv and ranks.csv
+Once the raw data is processed, two new files will get generated, values.csv and ranks.csv
 
 * Now open Processing IDE, go inside the sketch folder and open the file with .pde extension. For example: "./Covid_Cases_Ranking/Covid_Cases_Ranking.pde". Note that sketch folder name and pde file name should be exactly same.
 ```sh
